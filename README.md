@@ -1,6 +1,28 @@
-# DIO-segundodesafio-bancodigital-POO
-Desafio 2 DIO: Criando um Banco Digital com Java e Orientação a Objetos
 
-# Proposta do Desafio
+<h1>Banco Digital com Java e Orientação a Objetos
+</h1>
 
-Reforce seu conhecimento em Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalmente prático. Para isso, os pilares da orientação a objetos são devidamente explorados no contexto bancário, onde o expert implementa um projeto de referência (disponibilizado no GitHub) de forma prática e interativa. 
+<p>Testes unitários de uma API REST para o gerenciamento de estoques de refrigerante com Spring Boot</p>
+
+
+# Sobre
+<p>Projeto de Programação Orientada a Objetos (POO) em Java que demonstra açoes de transferência, depósito, recarga de celular e empréstimo.(</p>
+
+
+# Tecnologias
+<p>As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Java](https://www.java.com/)
+
+
+</p>
+
+# Pre-requisitos
+<p>Ter instalado em sua máquina as seguintes ferramentas:
+
+•  Java  JDK 14 (openjdk) </br> 
+•  IDE: IntelliJ CE </br> 
+
+
+</p>
+
